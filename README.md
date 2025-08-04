@@ -50,14 +50,6 @@ pip install -r requirements.txt
 # Generate a report
 python generate_report.py --input data.csv --format pdf --output output/report.pdf
 
-
-
-
-
-
-
-
-
 ## Database Schema
 <img src="sales_db_schema.png" width="400" alt="DB Schema">
 
