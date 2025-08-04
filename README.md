@@ -34,28 +34,11 @@ The **Python Report Generator** is a flexible and automated solution for generat
 
 ---
 
-## 📦 Requirements
 
-Install the necessary Python libraries:
-
-```bash
-pip install -r requirements.txt
-# Clone the repository
-git clone https://github.com/yourusername/report-generator.git
-cd report-generator
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Generate a report
-python generate_report.py --input data.csv --format pdf --output output/report.pdf
-
-
-##
 ## Database Schema
 <img src="sales_db_schema.png" width="400" alt="DB Schema">
 
-##
+
 ## PDF Output Example
 <img src="pdf_output_demo.png" width="400" alt="PDF Output Demo">
 
