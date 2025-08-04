@@ -33,7 +33,20 @@ The **Python Report Generator** is a flexible and automated solution for generat
   Option to export password-protected PDFs and watermark reports.
 
 ---
+Dependencies
+This project uses the following Python libraries:
 
+pandas – Data manipulation
+
+reportlab – PDF generation
+
+matplotlib / seaborn – Chart rendering
+
+openpyxl – Excel support
+
+jinja2 – HTML templating (for HTML reports)
+
+sqlalchemy – Database connections (optional)
 
 ## Database Schema
 <img src="sales_db_schema.png" width="400" alt="DB Schema">
