@@ -1,108 +1,49 @@
+# Transform Your Data into Stunning PDF Reports with Python and SQL 📊
+In this tutorial, I'll show you how to use Python and SQL to transform your data into stunning PDF reports. Whether you're an analyst, a business owner, or just looking to create professional-looking reports for your own use, this tutorial will guide you step-by-step through the process.
 
+First, I'll show you how to set up a SQLite database and load sample data into it using Python. Next, I'll demonstrate how to use SQL queries to extract the data you need from the database. Then, I'll use Pandas to manipulate and transform the data, and show you how to create interactive charts with Plotly Express.
 
+Once we have our data prepped and ready, I'll use the FPDF library to generate a beautiful PDF report.
 
+Whether you're a beginner or an experienced Python user, this tutorial will give you the skills you need to create stunning PDF reports with ease. Follow along, and transform your data into stunning reports that will impress your audience!
 
-
-
-
-
-
-
-
-
-
-# 📝 Python Report Generator
-
-The **Python Report Generator** is a flexible and automated solution for generating professional reports from raw data. It streamlines the process of collecting, formatting, and exporting data into user-friendly and visually appealing documents. Ideal for data analysts, developers, business teams, and educators who need consistent and repeatable reporting workflows.
-
----
-
-## 🔧 Features
-
-- **Multi-format Export**  
-  Generate reports in **PDF**, **Excel**, **CSV**, or **HTML** formats.
-
-- **Data Input Support**  
-  Supports input from:
-  - CSV / Excel files
-  - JSON / XML
-  - SQL databases (SQLite, MySQL, PostgreSQL)
-  - APIs (optional token support)
-
-- **Automation**  
-  Schedule reports via CLI or integrate with cron jobs for automatic generation.
-
-- **Charts and Visuals**  
-  Create bar charts, pie charts, line graphs, and more using `matplotlib`, `seaborn`, or `plotly`.
-
-- **Template-Based Layout**  
-  Use customizable templates for branding, layout consistency, and section structure.
-
-- **Data Processing**  
-  Built-in filters, groupings, pivot tables, and aggregation using `pandas`.
-
-- **Security**  
-  Option to export password-protected PDFs and watermark reports.
-
----
-
-
-
-## 📦 Requirements
-
-Install the necessary Python libraries:
-
-```bash
-pip install -r requirements.txt
-
-# Clone the repository
-git clone https://github.com/yourusername/report-generator.git
-cd report-generator
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Generate a report
-python generate_report.py --input data.csv --format pdf --output output/report.pdf
-📚 Example Use Cases
-📊 Business dashboards and analytics reports
-
-🧾 Financial or sales summaries
-
-📈 Monthly or weekly performance tracking
-
-🎓 Academic and exam result reporting
-
-🧪 Lab experiment result exports
-
-🗂 Project status or activity reports
-
-
-Main dependencies include:
-
-pandas
-
-matplotlib / seaborn
-
-reportlab
-
-openpyxl
-
-jinja2
-
-sqlalchemy
 ## Database Schema
 <img src="sales_db_schema.png" width="400" alt="DB Schema">
 
 ## PDF Output Example
 <img src="pdf_output_demo.png" width="400" alt="PDF Output Demo">
 
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/LQywWpDoH9s/0.jpg)](https://youtu.be/LQywWpDoH9s)
 
 
 
 
+## 🤓 Check Out My Excel Add-ins
+I've developed some handy Excel add-ins that you might find useful:
+
+- 📊 **[Dashboard Add-in](https://pythonandvba.com/grafly)**: Easily create interactive and visually appealing dashboards.
+- 🎨 **[Cartoon Charts Add-In](https://pythonandvba.com/cuteplots)**: Create engaging and fun cartoon-style charts.
+- 🤪 **[Emoji Add-in](https://pythonandvba.com/emojify)**: Add a touch of fun to your spreadsheets with emojis.
+- 🛠️ **[MyToolBelt Add-in](https://pythonandvba.com/mytoolbelt)**: A versatile toolbelt for Excel, featuring:
+  - Creation of Pandas DataFrames and Jupyter Notebooks from Excel ranges
+  - ChatGPT integration for advanced data analysis
+  - And much more!
 
 
 
+## 🤝 Connect with Me
+- 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
+- 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
+- 💬 **Discord:** [Join our Community](https://pythonandvba.com/discord)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sven-bosau/)
+- 📸 **Instagram:** [Follow me](https://www.instagram.com/codingisfun_official/)
 
+## Support My Work
+Love my content and want to show appreciation? Why not [buy me a coffee](https://pythonandvba.com/coffee-donation) to fuel my creative engine? Your support means the world to me! 😊
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
+
+## Feedback
+Got some thoughts or suggestions? Don't hesitate to reach out to me at contact@pythonandvba.com. I'd love to hear from you! 💡
+![Logo](https://www.pythonandvba.com/banner-img)
