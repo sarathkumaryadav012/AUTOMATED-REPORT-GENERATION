@@ -1,4 +1,15 @@
+#AUTOMATED REPORT GENERATION
+*COMPANY*:  CODETECH IT SOLUTIONS
 
+*NAME*:  DODDAGA SARATH KUMAR                             
+
+*INTERN ID*: CT06DZ184
+
+*DOMAIN*:  PYTHON PROGRAMMING 
+
+*DURATION*:  6 WEEKS
+
+*MENTOR*:  NEELA SANTHOSH
 # 📝 Python Report Generator
 
 The **Python Report Generator** is a flexible and automated solution for generating professional reports from raw data. It streamlines the process of collecting, formatting, and exporting data into user-friendly and visually appealing documents. Ideal for data analysts, developers, business teams, and educators who need consistent and repeatable reporting workflows.
